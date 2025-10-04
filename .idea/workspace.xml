@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f6ed562-0d75-4666-88aa-cb03ea32e15c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/generate_exercise" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/exercise_generator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/exercise_template/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/exercise_template/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/spec/exercise_generator_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/10_basic_enumerables/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/10_basic_enumerables/exercises/basic_enumerable_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/10_basic_enumerables/spec/basic_enumerable_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/10_basic_enumerables/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/11_predicate_enumerables/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/11_predicate_enumerables/exercises/predicate_enumerable_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/11_predicate_enumerables/spec/predicate_enumerable_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/11_predicate_enumerables/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/12_nested_collections/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/12_nested_collections/exercises/nested_array_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/12_nested_collections/exercises/nested_hash_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/12_nested_collections/spec/nested_array_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/12_nested_collections/spec/nested_hash_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/12_nested_collections/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/1_data_types/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/1_data_types/exercises/numbers_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/1_data_types/exercises/string_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/1_data_types/spec/numbers_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/1_data_types/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/1_data_types/spec/strings_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/6_arrays/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/6_arrays/exercises/array_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/6_arrays/spec/array_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/6_arrays/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/7_hashes/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/7_hashes/exercises/hash_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/7_hashes/spec/hash_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/7_hashes/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/8_methods/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/8_methods/exercises/method_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/8_methods/spec/method_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/8_methods/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/9_debugging/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/9_debugging/exercises/debugging_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/9_debugging/spec/debugging_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/9_debugging/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby_basics/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/10_basic_enumerables/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/10_basic_enumerables/exercises/basic_enumerable_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/10_basic_enumerables/spec/basic_enumerable_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/10_basic_enumerables/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/11_predicate_enumerables/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/11_predicate_enumerables/exercises/predicate_enumerable_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/11_predicate_enumerables/spec/predicate_enumerable_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/11_predicate_enumerables/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/12_nested_collections/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/12_nested_collections/exercises/nested_array_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/12_nested_collections/exercises/nested_hash_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/12_nested_collections/spec/nested_array_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/12_nested_collections/spec/nested_hash_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/12_nested_collections/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/1_data_types/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/1_data_types/exercises/numbers_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/1_data_types/exercises/string_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/1_data_types/spec/numbers_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/1_data_types/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/1_data_types/spec/strings_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/6_arrays/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/6_arrays/exercises/array_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/6_arrays/spec/array_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/6_arrays/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/7_hashes/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/7_hashes/exercises/hash_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/7_hashes/spec/hash_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/7_hashes/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/8_methods/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/8_methods/exercises/method_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/8_methods/spec/method_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/8_methods/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/9_debugging/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/9_debugging/exercises/debugging_exercises.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/9_debugging/spec/debugging_exercises_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/9_debugging/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ruby_basics/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;notjakespencer&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TheOdinProject/ruby-exercises.git&quot;,
+    &quot;accountId&quot;: &quot;12e179da-936d-4912-9e02-dc1e7c8afdad&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="33aRmZmYNno4iZifaBA3arRUW8q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP": "1759558479673",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ruby.structure.view.model.defaults.configured": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="true" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file enabled="true" id="RUBY_RSPEC" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATHS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_EXAMPLE_MATCHES" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="LINE_NUMBER_EXAMPLE_IDS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="RackRunConfigurationType" factoryName="Rack">
+      <RACK_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RACK_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RACK_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RACK_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RACK_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RACK_CONFIG_SETTINGS_ID NAME="PORT" VALUE="9292" />
+      <RACK_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RACK_CONFIG_SETTINGS_ID NAME="CONFIG_FILE" VALUE="" />
+      <RACK_CONFIG_SETTINGS_ID NAME="RACK_SERVER_TYPE" VALUE="Default" />
+      <RACK_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
+      <predefined_log_file enabled="true" id="RUBY_RAKE" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file enabled="true" id="RUBY_TESTUNIT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-RM-252.26830.94" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f6ed562-0d75-4666-88aa-cb03ea32e15c" name="Changes" comment="" />
+      <created>1759553356773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759553356773</updated>
+      <workItem from="1759553358187" duration="2898000" />
+      <workItem from="1759556503876" duration="1770000" />
+      <workItem from="1759558419689" duration="4152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
