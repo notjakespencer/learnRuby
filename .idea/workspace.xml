@@ -4,25 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f6ed562-0d75-4666-88aa-cb03ea32e15c" name="Changes" comment="Learning Ruby &amp; Rails">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-exercises/ruby_basics/10_basic_enumerables/exercises/basic_enumerable_exercises.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-exercises/ruby_basics/10_basic_enumerables/exercises/basic_enumerable_exercises.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-exercises/ruby_basics/10_basic_enumerables/spec/basic_enumerable_exercises_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-exercises/ruby_basics/10_basic_enumerables/spec/basic_enumerable_exercises_spec.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-exercises/ruby_basics/11_predicate_enumerables/exercises/predicate_enumerable_exercises.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-exercises/ruby_basics/11_predicate_enumerables/exercises/predicate_enumerable_exercises.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-exercises/ruby_basics/11_predicate_enumerables/spec/predicate_enumerable_exercises_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-exercises/ruby_basics/11_predicate_enumerables/spec/predicate_enumerable_exercises_spec.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-exercises/ruby_basics/12_nested_collections/exercises/nested_array_exercises.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-exercises/ruby_basics/12_nested_collections/exercises/nested_array_exercises.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-exercises/ruby_basics/12_nested_collections/spec/nested_array_exercises_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-exercises/ruby_basics/12_nested_collections/spec/nested_array_exercises_spec.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-exercises/ruby_basics/7_hashes/exercises/hash_exercises.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-exercises/ruby_basics/7_hashes/exercises/hash_exercises.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-exercises/ruby_basics/7_hashes/spec/hash_exercises_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-exercises/ruby_basics/7_hashes/spec/hash_exercises_spec.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-exercises/ruby_basics/8_methods/exercises/method_exercises.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-exercises/ruby_basics/8_methods/exercises/method_exercises.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-exercises/ruby_basics/8_methods/spec/method_exercises_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-exercises/ruby_basics/8_methods/spec/method_exercises_spec.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-exercises/ruby_basics/9_debugging/exercises/debugging_exercises.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-exercises/ruby_basics/9_debugging/exercises/debugging_exercises.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-exercises/ruby_basics/9_debugging/spec/debugging_exercises_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-exercises/ruby_basics/9_debugging/spec/debugging_exercises_spec.rb" afterDir="false" />
-    </list>
+    <list default="true" id="2f6ed562-0d75-4666-88aa-cb03ea32e15c" name="Changes" comment="Learning Ruby &amp; Rails" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,7 +55,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "ruby.structure.view.model.defaults.configured": "true",
-    "settings.editor.selected.configurable": "editor.breadcrumbs",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -215,7 +207,7 @@
       <workItem from="1759556503876" duration="1770000" />
       <workItem from="1759558419689" duration="4344000" />
       <workItem from="1759635916711" duration="709000" />
-      <workItem from="1759891938836" duration="10257000" />
+      <workItem from="1759891938836" duration="10688000" />
     </task>
     <task id="LOCAL-00001" summary="Learning Ruby &amp; Rails">
       <option name="closed" value="true" />
@@ -233,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759563234368</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Learning Ruby &amp; Rails">
+      <option name="closed" value="true" />
+      <created>1759905455161</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759905455161</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,6 +251,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="MARK_IGNORED_AS_EXCLUDED" value="true" />
     <MESSAGE value="Learning Ruby &amp; Rails" />
     <option name="LAST_COMMIT_MESSAGE" value="Learning Ruby &amp; Rails" />
   </component>
