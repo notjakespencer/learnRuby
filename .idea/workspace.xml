@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f6ed562-0d75-4666-88aa-cb03ea32e15c" name="Changes" comment="Learning Ruby &amp; Rails" />
+    <list default="true" id="2f6ed562-0d75-4666-88aa-cb03ea32e15c" name="Changes" comment="Learning Ruby">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby-exercises/ruby_basics/12_nested_collections/exercises/nested_hash_exercises.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-exercises/ruby_basics/12_nested_collections/exercises/nested_hash_exercises.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby-exercises/ruby_basics/12_nested_collections/spec/nested_hash_exercises_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-exercises/ruby_basics/12_nested_collections/spec/nested_hash_exercises_spec.rb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +31,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/TheOdinProject/ruby-exercises.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/notjakespencer/learnRuby&quot;,
     &quot;accountId&quot;: &quot;12e179da-936d-4912-9e02-dc1e7c8afdad&quot;
   }
 }</component>
@@ -46,7 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP": "1759891997033",
+    "com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP": "1759978796487",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
@@ -207,7 +211,8 @@
       <workItem from="1759556503876" duration="1770000" />
       <workItem from="1759558419689" duration="4344000" />
       <workItem from="1759635916711" duration="709000" />
-      <workItem from="1759891938836" duration="10688000" />
+      <workItem from="1759891938836" duration="11140000" />
+      <workItem from="1759978739009" duration="2171000" />
     </task>
     <task id="LOCAL-00001" summary="Learning Ruby &amp; Rails">
       <option name="closed" value="true" />
@@ -233,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759905455161</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Learning Ruby">
+      <option name="closed" value="true" />
+      <created>1759905974711</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759905974711</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,7 +266,8 @@
   <component name="VcsManagerConfiguration">
     <option name="MARK_IGNORED_AS_EXCLUDED" value="true" />
     <MESSAGE value="Learning Ruby &amp; Rails" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learning Ruby &amp; Rails" />
+    <MESSAGE value="Learning Ruby" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning Ruby" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/repos@debugging_exercises.rcov" NAME="debugging_exercises Coverage Results" MODIFIED="1759895659877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="repos" />
