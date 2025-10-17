@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f6ed562-0d75-4666-88aa-cb03ea32e15c" name="Changes" comment="Learning Ruby">
-      <change afterPath="$PROJECT_DIR$/.idea/learnRuby.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/caesar_cipher.rb" afterDir="false" />
+    <list default="true" id="2f6ed562-0d75-4666-88aa-cb03ea32e15c" name="Changes" comment="Starting Ruby projects">
+      <change afterPath="$PROJECT_DIR$/projects/bubble-sort/bubble-sort.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bubble-sort/spec/bubble-sort_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/caesar-cipher/spec/caesar-cipher_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/stock-picker/spec/stock-picker_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/stock-picker/stock-picker.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/substrings/spec/substrings_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/substrings/substrings.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/caesar_cipher.rb" beforeDir="false" afterPath="$PROJECT_DIR$/projects/caesar-cipher/caesar_cipher.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +42,12 @@
     &quot;assignee&quot;: &quot;notjakespencer&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/notjakespencer/learnRuby",
-    "accountId": "340db27a-fa9f-4f43-b5d5-b5411abdf98e"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/notjakespencer/learnRuby&quot;,
+    &quot;accountId&quot;: &quot;340db27a-fa9f-4f43-b5d5-b5411abdf98e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -59,10 +64,10 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP": "1760713949952",
+    "com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP": "1760738411163",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/SP/repos/learnRuby",
+    "last_opened_file_path": "C:/Users/SP/repos/learnRuby/projects",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,7 +79,12 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SP\repos\learnRuby\projects" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SP\repos\learnRuby\projects\caesar_cipher\spec" />
+      <recent name="C:\Users\SP\repos\learnRuby\projects\caesar_cipher" />
       <recent name="C:\Users\SP\repos\learnRuby\projects" />
     </key>
   </component>
@@ -228,7 +238,8 @@
       <workItem from="1759635916711" duration="709000" />
       <workItem from="1759891938836" duration="11140000" />
       <workItem from="1759978739009" duration="2171000" />
-      <workItem from="1760713890962" duration="2446000" />
+      <workItem from="1760713890962" duration="4902000" />
+      <workItem from="1760738352700" duration="2494000" />
     </task>
     <task id="LOCAL-00001" summary="Learning Ruby &amp; Rails">
       <option name="closed" value="true" />
@@ -262,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759905974711</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Starting Ruby projects">
+      <option name="closed" value="true" />
+      <created>1760717086190</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760717086190</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,7 +302,8 @@
     <option name="MARK_IGNORED_AS_EXCLUDED" value="true" />
     <MESSAGE value="Learning Ruby &amp; Rails" />
     <MESSAGE value="Learning Ruby" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learning Ruby" />
+    <MESSAGE value="Starting Ruby projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Starting Ruby projects" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/repos@debugging_exercises.rcov" NAME="debugging_exercises Coverage Results" MODIFIED="1759895659877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="repos" />

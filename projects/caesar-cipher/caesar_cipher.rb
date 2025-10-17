@@ -6,10 +6,10 @@ def caesar_cipher(string, shift)
   result = ""
 
   string.each_char do |char|
-    if char is a letter
-      base = char is uppercase ? 'A'.ord : 'a'.ord
+    if char.match?(/[A-Za-z]/)
+      base = char.ord < 91 ? 'A'.ord : 'a'.ord
       shifted = ((char.ord - base + shift) % 26) + base
-      result += shifted.char
+      result += shifted.chr
     else
       result += char
     end
